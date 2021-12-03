@@ -138,6 +138,6 @@ voting_data = [{"county":"Arapahoe", "registered_voters": 422829},
 
 #SKILL DRILL 2
 for county, voters in counties_dict.items():
-    print (f'{county} county has {voters} registered voters')
+    print (f'{county} county has {voters:,} registered voters')
 
     
