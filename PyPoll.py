@@ -76,21 +76,3 @@ winning_candidate_summary = (
     f"Winning Percentage: {winning_percentage:.1f}%\n"
     f"-------------------------\n")
 print(winning_candidate_summary)
-
-    # # 4. Print the candidate name and percentage of votes.
-    # print(f"{candidate_name}: received {vote_percentage:.2f}% of the vote.")
-    
-# #3. Printthe total votes.
-#     print(total_votes)
-
-# Print the candidate list.
-# print(candidate_votes)
-
-    # To do: read and analyze the data here.
-    # To do: perform analysis.  
-
-# 1. Total number of votes cast
-# 2. A complete list of candidates who received votes
-# 3. Total number of votes each candidate received
-# 4. Percentage of votes each candidate won
-# 5. The winner of the election based on popular vote
